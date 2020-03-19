@@ -12,7 +12,7 @@ A personal location vault that nobody else can access. Log your location private
 ## Behavior
 
 1. Get consent to locally track location and send an encoded version online.
-2. Locally cache loction info once every 5 minutes: ```	Time  |  GPS Lat  |  GPS Lon ```
+2. Locally cache location info once every 5 minutes: ```	Time  |  GPS Lat  |  GPS Lon ```
 
 # Development
 
